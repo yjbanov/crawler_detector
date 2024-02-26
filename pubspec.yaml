@@ -4,7 +4,7 @@ version: 0.0.1
 repository: https://github.com/yjbanov/crawler_detector
 
 environment:
-  sdk: ^3.4.0-138.0.dev
+  sdk: ^3.3.0
 
 dependencies:
   web: ">=0.5.0 <1.0.0"
