@@ -1,5 +1,8 @@
 name: crawler_detector
-description: Helps detecting web crawlers.
+description: >-
+  Functions for detecting user agents that are web crawlers, such as search
+  engines, ad systems, and more, which can help optimizing the app for better
+  crawlability.
 version: 0.0.1
 repository: https://github.com/yjbanov/crawler_detector
 

@@ -15,8 +15,8 @@
 /// Detects web crawlers.
 library;
 
-import 'src/detector_io.dart'
-  if (dart.library.js_util) 'src/detector_web.dart' as impl;
+import 'src/detector_io.dart' if (dart.library.js_util) 'src/detector_web.dart'
+    as impl;
 
 /// Detects if the current user agent (e.g. browser) is a web crawler.
 ///
