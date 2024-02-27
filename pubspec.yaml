@@ -3,7 +3,7 @@ description: >-
   Functions for detecting user agents that are web crawlers, such as search
   engines, ad systems, and more, which can help optimizing the app for better
   crawlability.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/yjbanov/crawler_detector
 
 environment:
